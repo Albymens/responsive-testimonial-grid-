@@ -25,7 +25,7 @@
      grid-template-areas:
          "first-testimonial first-testimonial third-testimonial fifth-testimonial"
          "second-testimonial fourth-testimonial fourth-testimonial fifth-testimonial";
-     padding: 30px;
+     padding: 100px;
      gap: 25px;
      width: 80%;
      margin: auto;
@@ -99,7 +99,7 @@
          grid-template-areas:
              "first-testimonial  third-testimonial"
              "second-testimonial fourth-testimonial"
-            "fifth-testimonial .";
+            "fifth-testimonial .";    
      }
  }
 
